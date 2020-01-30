@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apiLogin">http://localhost:3000/api/login</string>
+    <string name="apiGetUserProfile">http://localhost:3000/api/getUserProfile</string>
+    <string name="apiGetDistributor">http://localhost:3000/api/getDistributor</string>
+    <string name="apiGetStores">http://localhost:3000/api/getStores</string>
+    <string name="apiGetProductsfromStoreId">http://localhost:3000/api/getProductsfromStoreId</string>
+</resources>

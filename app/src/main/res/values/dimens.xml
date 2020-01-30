@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_tall_height">150dp</dimen>
+    <dimen name="default_margin_vertical">20dp</dimen>
+    <dimen name="default_margin_horizontal">20dp</dimen>
+    <dimen name="textSize_header_1">25sp</dimen>
+    <dimen name="textSize_body">18sp</dimen>
+    <dimen name="textSize_header_section">16sp</dimen>
+    <dimen name="textSize_header_2">19sp</dimen>
+    <dimen name="mini_margin_vertical">10dp</dimen>
+</resources>
